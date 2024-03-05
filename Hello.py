@@ -64,3 +64,10 @@ st.bar_chart(purchase_per_month_2017, use_container_width=True)
 
 st.caption('Question: How is the performance of "Delivered" orders in 2017?')
 st.caption('Conclusion: Based on the bar chart, it can be observed that the number of "Delivered" order statuses does not exhibit a trend as it fluctuates throughout certain months. The highest number of orders with the status "Delivered" occurs in the 11th month, which is November. Meanwhile, the lowest number of orders with the status "Delivered" occurs in the 1st month, which is January.')
+
+def run():
+    st.set_page_config(
+        page_title="Hello",
+        page_icon="👋",
+    )
+
