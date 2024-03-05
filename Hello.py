@@ -22,8 +22,8 @@ with st.sidebar:
 
 ### Streamlit Main
 
-st.header('Dicoding Data Analysis First Project Dashboard - Reyzita Afrida')
-st.subheader('E-Commerce Public Dataset')
+st.header('Dicoding Collection Dashboard')
+st.subheader('Dicoding Data Analysis First Project Dashboard - E-Commerce Public Dataset')
 st.caption('Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce')
 
 
