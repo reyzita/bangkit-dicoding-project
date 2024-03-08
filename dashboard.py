@@ -133,7 +133,7 @@ plt.ylabel('Number of Sellers')
 # Menampilkan grafik di Streamlit
 st.pyplot(fig)
 st.caption('Question: What are the top 10 cities with the most sellers?')
-st.caption('Conclusion: Based on the bar chart, it's evident that the top 10 cities with the most sellers are Sao Paulo (694 sellers), Curitiba (127 sellers), Rio de Janeiro (96 sellers), Belo Horizonte (68 sellers), Ribeirao Preto (52 sellers), Guarulhos (50 sellers), Ibitinga (49 sellers), Santo Andre (45 sellers), Campinas (41 sellers), and Maringa (40 sellers).  Apart from these 10 cities, there's a need for more focused efforts to evenly distribute the number of sellers across different cities, thus enhancing the number of buyers in each city with available sellers.')
+st.caption('Conclusion: Based on the bar chart, it is evident that the top 10 cities with the most sellers are Sao Paulo (694 sellers), Curitiba (127 sellers), Rio de Janeiro (96 sellers), Belo Horizonte (68 sellers), Ribeirao Preto (52 sellers), Guarulhos (50 sellers), Ibitinga (49 sellers), Santo Andre (45 sellers), Campinas (41 sellers), and Maringa (40 sellers).  Apart from these 10 cities, there's a need for more focused efforts to evenly distribute the number of sellers across different cities, thus enhancing the number of buyers in each city with available sellers.')
 
 ##5.
 st.subheader('Customer Demographic Based on the State?')
